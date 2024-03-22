@@ -11,7 +11,7 @@
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>СalculatorTest</Name>
-    <RootNamespace>PyTestTaskTest</RootNamespace>
+    <RootNamespace>СalculatorTest</RootNamespace>
     <IsWindowsApplication>False</IsWindowsApplication>
     <InterpreterId>Global|PythonCore|3.7</InterpreterId>
     <TestFramework>pytest</TestFramework>
@@ -33,8 +33,8 @@
     <InterpreterReference Include="Global|PythonCore|3.7" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PyTestTask\PyTestTask.pyproj">
-      <Name>PyTestTask</Name>
+    <ProjectReference Include="..\Сalculator\Сalculator.pyproj">
+      <Name>Сalculator</Name>
       <Project>{e010fb0e-9632-4227-ab2c-79a849e84a49}</Project>
       <Private>True</Private>
     </ProjectReference>

@@ -1,4 +1,4 @@
-def sum(a : int, b : int) -> int:
+def sum(a, b):
     return a + b
 
 def mul(a, b):
@@ -9,5 +9,3 @@ def div(a, b):
 
 def sub(a, b):
     return a - b
-
-print(sum('1', '1'))

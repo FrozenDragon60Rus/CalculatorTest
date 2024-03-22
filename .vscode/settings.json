@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "PyTestTaskTest"
+        "СalculatorTest"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,

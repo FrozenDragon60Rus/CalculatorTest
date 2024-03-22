@@ -67,7 +67,7 @@ class TestDiv:
             calc.div(val_1, val_2) #Is not a number
      
     def test_divisionByZero(self):
-        with pytest.raises(DivisionByZero):    
+        with pytest.raises(ZeroDivisionError):    
             calc.div(25, 0)
 
 class TestSub:

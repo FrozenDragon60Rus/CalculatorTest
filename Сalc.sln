@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Сalculator", "PyTestTask\Сalculator.pyproj", "{E010FB0E-9632-4227-AB2C-79A849E84A49}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Сalculator", "Сalculator\Сalculator.pyproj", "{E010FB0E-9632-4227-AB2C-79A849E84A49}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "СalculatorTest", "PyTestTaskTest\СalculatorTest.pyproj", "{971908F4-E6B8-4BB5-ABEF-36AF92BA03BC}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "СalculatorTest", "СalculatorTest\СalculatorTest.pyproj", "{971908F4-E6B8-4BB5-ABEF-36AF92BA03BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
